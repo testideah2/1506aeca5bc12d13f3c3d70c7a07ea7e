@@ -3,14 +3,14 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "ru.taxirabotada.opentaxicash"
+        id          = "land.dlyarabotivtaxi.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>Для таксиста</name>
+    <name>Для работы в такси 0+</name>
 
     <description>
-        Для таксиста
+        Для работы в такси водителем на своей машине 0+
     </description>
 
     <author>Tadapp</author>
